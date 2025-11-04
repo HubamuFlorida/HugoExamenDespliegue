@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (rand(0, 1)) {
-        echo "Has ganado!";
+        echo "Ha ganado!";
     } else {
         echo "Has perdido.";
     }
