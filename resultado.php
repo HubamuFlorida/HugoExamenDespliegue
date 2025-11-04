@@ -1,5 +1,3 @@
-php
-<!-- archivo: juego.php -->
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (rand(0, 1)) {
@@ -9,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
     header("refresh:2;url=index.php");
     exit;
-}
+    }
 ?>
 
 <form method="post">
