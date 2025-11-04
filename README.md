@@ -1,0 +1,1 @@
+EL juego básicamente consiste en que te sale si ganas o pierdes, y supuestamente si le das al boton le das a jugar. ADemás, gracias al header te redirige en este caso a index.php.
